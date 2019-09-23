@@ -24,6 +24,7 @@
         <module>microservices-admin</module>
 		<module>microservices-zuul</module>
 		<module>microservices-eureka</module>
+		<module>microservices-hystrix</module>
 	</modules>
 
 	<dependencies>
